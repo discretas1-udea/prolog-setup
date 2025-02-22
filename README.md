@@ -10,3 +10,5 @@
 2. [Notebook de Colab con manual de instalación y ejemplos](https://colab.research.google.com/github/sut-ai/supplementary/blob/master/notebooks/logic_programming/index.ipynb)
 3. [Tutorial de Prolog de Swish](https://swish.swi-prolog.org/p/Tutorial%20de%20prolog.swinb) (Recomendado)
 
+> [!TIP]
+> El tutorial de Prolog de SWISH es sencillo y bien documentado para entender como escribir cláusulas en Prolog, archivos .pl para las bases de conocimiento y también la relación entre estas y proposiciones simples. Se harán ejemplos que hagan el paralelo entre las cláusulas de Prolog y las proposiciones de lógica cuantificacional del curso. 
