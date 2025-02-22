@@ -7,8 +7,7 @@
 
 ### Algunos links de interés
 1. [Documentación oficial de Prolog](https://www.swi-prolog.org/)
-2. [Notebook de Colab con manual de instalación y ejemplos](https://colab.research.google.com/github/sut-ai/supplementary/blob/master/notebooks/logic_programming/index.ipynb)
-3. [Tutorial de Prolog de Swish](https://swish.swi-prolog.org/p/Tutorial%20de%20prolog.swinb) (Recomendado)
+2. [Tutorial de Prolog de Swish](https://swish.swi-prolog.org/p/Tutorial%20de%20prolog.swinb) (Recomendado)
 
 > [!TIP]
 > El tutorial de Prolog de SWISH es sencillo y bien documentado para entender como escribir cláusulas en Prolog, archivos .pl para las bases de conocimiento y también la relación entre estas y proposiciones simples. Se recomienda encarecidamente seguirlo con atención y detalle.  
