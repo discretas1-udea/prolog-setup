@@ -17,7 +17,8 @@
 > [!IMPORTANT]
 > Cada persona escoge la opción que le quede más sencilla de instalar. 
 
-> [!WARNING] La diferencia entre trabajar con el entorno instalado localmente (Windows, MAC o Linux) y usarlo en notebooks de Google Colab o Jupyter, es que en los notebooks se debe mezclar código Python con Prolog. Esto hace que la curva de aprendizaje pueda ser un poco más elevada sobre todo si no se tiene conocimiento de Python. Sin embargo, puede usar el que más desee. 
+> [!WARNING] 
+> La diferencia entre trabajar con el entorno instalado localmente (Windows, MAC o Linux) y usarlo en notebooks de Google Colab o Jupyter, es que en los notebooks se debe mezclar código Python con Prolog. Esto hace que la curva de aprendizaje pueda ser un poco más elevada sobre todo si no se tiene conocimiento de Python. Sin embargo, puede usar el que más desee. 
 
 ### Instalación en Windows
 La instalación de Prolog en Windows se realiza mediante un archivo .exe
@@ -26,7 +27,7 @@ Solamente se ejecuta dicho archivo, se escoje la ruta donde se desee instalar y 
 ### Instalación en Linux
 Para instalar Prolog en Linux, se debe tener clara cual es la distribución en específico y seguir el tutorial de la documentación oficial: [Clic acá](https://www.swi-prolog.org/build/unix.html) para ver las instrucciones.
 
-<details><summary><b>Instrucciones para distribuciones basadas en Debian<b><summary>
+<details><summary><b>Instrucciones para distribuciones basadas en Debian</b></summary>
 
 1. Actualiza la información de los paquetes e instala las actualizaciones disponibles. 
     ```sh
