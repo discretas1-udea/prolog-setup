@@ -24,11 +24,32 @@ Solamente se ejecuta dicho archivo, se escoje la ruta donde se desee instalar y 
 <details><summary><b>Instrucciones para la instalación en Windows</b></summary>
 
 1. Se descarga el .exe desde la [página oficial](https://www.swi-prolog.org/download/stable).
-> [!NOTE]
-> En ocasiones Windows detecta el archivo .exe como un archivo malicioso. Se deben saltar las recomendaciones e instalarlo normalmente. 
 
 2. Se ejecuta el archivo .exe
-![Screenshot executing .exe file](https://github.com/discretas1-udea/prolog-basics/blob/main/assets/exe.png)
+![Screenshot executing .exe file](https://github.com/discretas1-udea/prolog-basics/blob/main/assets/windows-installation/01.png)
+
+3. Se da clic en siguiente
+![Screenshot 2](https://github.com/discretas1-udea/prolog-basics/blob/main/assets/windows-installation/02.png)
+
+4. Se debe aceptar el acuerdo de licencia para poder instalar
+![Screenshot 3](https://github.com/discretas1-udea/prolog-basics/blob/main/assets/windows-installation/03.png)
+
+5. Se agrega al PATH del sistema ya sea para el usuario actual o para todos los usuarios según se desee 
+![Screenshot 4](https://github.com/discretas1-udea/prolog-basics/blob/main/assets/windows-installation/04.png)
+
+6. Se escoge la carpeta en la cual se desea instalar el programa y se da clic en siguiente
+![Screenshot 5](https://github.com/discretas1-udea/prolog-basics/blob/main/assets/windows-installation/05.png)
+
+7. Se deja la carpeta del menú de inicio por defecto y se da clic en siguiente
+![Screenshot 6](https://github.com/discretas1-udea/prolog-basics/blob/main/assets/windows-installation/06.png)
+
+8. Se seleccionan todos los componentes que nos permite el instalador y se da clic en instalar
+![Screenshot 7](https://github.com/discretas1-udea/prolog-basics/blob/main/assets/windows-installation/07.png)
+
+9. Una vez finalice de instalar, buscamos SWI-Prolog en el buscador de Windows y ya podemos observar que se encuentra instalado
+![Screenshot 8](https://github.com/discretas1-udea/prolog-basics/blob/main/assets/windows-installation/08.png)
+
+
 </details>
 
 
