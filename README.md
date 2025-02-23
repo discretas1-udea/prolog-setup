@@ -84,7 +84,9 @@ Para instalar Prolog en Linux, se debe tener clara cual es la distribución en e
 5. Si deseas salir del programa y quedar nuevamente en la terminal puedes apretar la combinación de teclas `Ctrl + c` y luego presiona la tecla `e`.
 
 </details>
+
 ---
+
 ### Instalación y uso en un notebook de Google Colab
 > [!WARNING]
 > Usar Prolog en un notebook de Colab es más cómodo si se quiere trabajar con él sin la necesidad de instalarlo localmente. Sin embargo, al estar en un entorno de ejecución de Python, estamos sujetos a trabajar con Prolog a través de la librería [PySwip](https://pyswip.readthedocs.io/en/latest/get_started.html) y no directamente. (Como podría serlo en un entorno local). Por lo tanto, tendremos que usar Python para ejecutar Prolog, lo cual, puede ser un poco tedioso si no se tienen conocimientos previos de programación en Python. 
