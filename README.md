@@ -21,6 +21,17 @@
 La instalación de Prolog en Windows se realiza mediante un archivo .exe
 Solamente se ejecuta dicho archivo, se escoje la ruta donde se desee instalar y se finaliza. 
 
+<details><summary><b>Instrucciones para la instalación en Windows</b></summary>
+
+1. Se descarga el .exe desde la [página oficial](https://www.swi-prolog.org/download/stable).
+> [!NOTE]
+> En ocasiones Windows detecta el archivo .exe como un archivo malicioso. Se deben saltar las recomendaciones e instalarlo normalmente. 
+
+2. Se ejecuta el archivo .exe
+![Screenshot executing .exe file]()
+</details>
+
+
 ---
 
 ### Instalación en Linux
@@ -74,3 +85,5 @@ Para instalar Prolog en Linux, se debe tener clara cual es la distribución en e
     from pyswip import Prolog
     ```
 </details>
+
+
