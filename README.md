@@ -28,7 +28,7 @@ Solamente se ejecuta dicho archivo, se escoje la ruta donde se desee instalar y 
 > En ocasiones Windows detecta el archivo .exe como un archivo malicioso. Se deben saltar las recomendaciones e instalarlo normalmente. 
 
 2. Se ejecuta el archivo .exe
-![Screenshot executing .exe file]()
+![Screenshot executing .exe file](https://github.com/discretas1-udea/prolog-basics/blob/main/assets/exe.png)
 </details>
 
 
