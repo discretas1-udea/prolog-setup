@@ -21,8 +21,7 @@
 La instalación de Prolog en Windows se realiza mediante un archivo .exe
 Solamente se ejecuta dicho archivo, se escoje la ruta donde se desee instalar y se finaliza. 
 
-# 
-#
+---
 
 ### Instalación en Linux
 Para instalar Prolog en Linux, se debe tener clara cual es la distribución en específico y seguir el tutorial de la documentación oficial: [Clic acá](https://www.swi-prolog.org/build/unix.html) para ver las instrucciones.
