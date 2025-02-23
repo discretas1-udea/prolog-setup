@@ -29,6 +29,7 @@ Solamente se ejecuta dicho archivo, se escoje la ruta donde se desee instalar y 
 ![Screenshot executing .exe file](https://github.com/discretas1-udea/prolog-basics/blob/main/assets/windows-installation/01.png)
 
 3. Se da clic en siguiente
+
 ![Screenshot 2](https://github.com/discretas1-udea/prolog-basics/blob/main/assets/windows-installation/02.png)
 
 4. Se debe aceptar el acuerdo de licencia para poder instalar
