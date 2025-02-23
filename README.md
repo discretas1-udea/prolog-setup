@@ -118,7 +118,7 @@ Las bases de conocimiento son archivos en los cuales registraremos los hechos y 
 En Windows se puede usar el menú que nos proporciona la terminal de SWI-PROLOG para crear las bases de conocimiento. 
 
 1. En el menú de la terminal de Prolog, vamos a la pestaña `File` y damos clic en `New`
-![Screenshots 1](https://raw.githubusercontent.com/cristianmunoz1/discretas1-udea/prolog-basics/tree/main/assets/windows-consult/01.png)
+![Screenshots 1](https://github.com/discretas1-udea/prolog-basics/tree/main/assets/windows-consult/01.png)
 
 2. Se nos abre una carpeta en la cual vamos a escribir el nombre deseado para nuestra base de conocimiento con extensión `.pl` y damos clic en Guardar
 ![Screenshot 2](https://github.com/discretas1-udea/prolog-basics/tree/main/assets/windows-consult/02.png)
