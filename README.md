@@ -21,7 +21,6 @@
 La instalación de Prolog en Windows se realiza mediante un archivo .exe
 Solamente se ejecuta dicho archivo, se escoje la ruta donde se desee instalar y se finaliza. 
 
-***
 ---
 
 ### Instalación en Linux
