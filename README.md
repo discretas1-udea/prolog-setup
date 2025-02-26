@@ -110,34 +110,3 @@ Para instalar Prolog en Linux, se debe tener clara cual es la distribución en e
     from pyswip import Prolog
     ```
 </details>
-
-## Guardado y consulta de una base de conocimiento
-Las bases de conocimiento son archivos en los cuales registraremos los hechos y reglas con los que Prolog trabajará. Estos hechos y reglas se guardan en archivos con extensión `.pl` 
-
-<details><summary><b>Bases de conocimiento en Windows</b></summary>
-En Windows se puede usar el menú que nos proporciona la terminal de SWI-PROLOG para crear las bases de conocimiento. 
-
-1. En el menú de la terminal de Prolog, vamos a la pestaña `File` y damos clic en `New`
-![Screenshots 1](https://github.com/discretas1-udea/prolog-basics/tree/main/assets/windows-consult/01.png)
-
-2. Se nos abre una carpeta en la cual vamos a escribir el nombre deseado para nuestra base de conocimiento con extensión `.pl` y damos clic en Guardar
-![Screenshot 2](https://github.com/discretas1-udea/prolog-basics/tree/main/assets/windows-consult/02.png)
-
-3. Podemos observar que se abre una pestaña con el nombre que recién le dimos a la base de datos. Esta pestaña es un editor de texto, que podremos usar para crear nuestras bases de conocimiento
-![Screenshot 3](https://github.com/discretas1-udea/prolog-basics/tree/main/assets/windows-consult/03.png)
-
-4. En la pestaña donde tenemos abierto Prolog vamos a escribir lo siguiente:
-    ```prolog
-    consult('baseconocimiento.pl') .
-    ```
-    
-    Asegúrate que escribes el nombre del archivo que creaste.
-    Si el archivo está creado correctamente entonces la terminal arrojará como salida `true`. Si el archivo no existe, arrojará un error. 
-
-![Screenshot 4](https://github.com/discretas1-udea/prolog-basics/tree/main/assets/windows-consult/04.png)
-
-5. Si el archivo `.pl` se encuentra en otra carpeta diferente, desde el menú también podemos abrirla. Dando clic en la pestaña File y luego en Consult. Se selecciona entonces el archivo .pl que se quiere consultar. 
-
-6. En caso de querer editar una base de conocimiento, desde el menú en la pestaña File y la opción Edit, seleccionando la base que queremos cambiar, podremos editarla. 
-
-
