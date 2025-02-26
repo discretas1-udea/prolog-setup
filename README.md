@@ -1,4 +1,4 @@
-# Básicos de Prolog
+# Configuración de Prolog
 [![Prolog](https://img.shields.io/badge/Lenguajes-Prolog-red)](https://www.swi-prolog.org/)
 [![date](https://img.shields.io/badge/Semestre-2025-blue)]()
 [![date](https://img.shields.io/badge/Universidad-UdeA-green)]()
