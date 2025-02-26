@@ -9,15 +9,12 @@
 1. [Documentación oficial de Prolog](https://www.swi-prolog.org/)
 2. [Tutorial de Prolog de Swish](https://swish.swi-prolog.org/p/Tutorial%20de%20prolog.swinb) (Recomendado)
 
-> [!TIP]
-> El tutorial de Prolog de SWISH es sencillo y está muy bien documentado para entender como escribir cláusulas en Prolog, archivos .pl para las bases de conocimiento y también la relación entre estas y proposiciones simples. Se recomienda encarecidamente seguirlo con atención. 
-
 # Setup
 
 ## Instalación de PROLOG
 
 > [!IMPORTANT]
-> Cada persona escoge la opción que le quede más sencilla de instalar. 
+> Cada persona escoge la opción que le quede más sencilla de instalar dependiendo su sistema operativo o si quiere trabajar Prolog con Python. 
 
 ### Instalación en Windows
 La instalación de Prolog en Windows se realiza mediante un archivo .exe
