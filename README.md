@@ -106,4 +106,11 @@ Para instalar Prolog en Linux, se debe tener clara cual es la distribución en e
     ```sh
     from pyswip import Prolog
     ```
+
+4. Cree un objeto Prolog. Este objeto es con el cual usaremos Prolog dentro del entorno. 
+    ```python
+    prolog = Prolog()
+    ```
+
+    
 </details>
